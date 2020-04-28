@@ -1,7 +1,8 @@
 
    {
    "timeAdjustFactor": "70000",
-   "numOfMinTillSendData": "30"
+   "bootsToSend": "59",
+   "TIME_TO_SLEEP": "60000" 
    
    }
 
