@@ -1,6 +1,6 @@
 
    {
-   "timeAdjustFactor": "61000",
+   "timeAdjustFactor": "59000",
    "bootsBeforeSend": "59",
    "sleepTimeMs": "60000"    
    }
