@@ -1,7 +1,6 @@
 
    {
-   "timeAdjustFactor": "45",
-   "TAF": "45",  
+   "TAF": "15",  
    "mPrA": "400",
    "BTS":"59",
    "TTS":"60000",
